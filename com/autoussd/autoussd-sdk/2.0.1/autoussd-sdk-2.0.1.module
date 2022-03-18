@@ -1,0 +1,166 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.autoussd",
+    "module": "autoussd-sdk",
+    "version": "2.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "autoussd-sdk-2.0.1.aar",
+          "url": "autoussd-sdk-2.0.1.aar",
+          "size": 225726,
+          "sha512": "dd15f1ab6e602c21a5de98d07bb176ecbc189534b0bef1b576f9faae2ec8071d6259148962e772f04a2d650fbba11e6717bec9e787adc61cb9493eaa28f9ed36",
+          "sha256": "37c5d70d707d21d4a163becc9a7947ba8c88c3631578e4a88dcefb2771dc5092",
+          "sha1": "0939763a37bf30ad60a901ea709c514fd8adb0ca",
+          "md5": "93f303b9aaba6e75b991899cb6853ba5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.20"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.3"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-ktx",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.fragment",
+          "module": "fragment-ktx",
+          "version": {
+            "requires": "1.4.1"
+          }
+        },
+        {
+          "group": "androidx.room",
+          "module": "room-runtime",
+          "version": {
+            "requires": "2.4.1"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.gridlayout",
+          "module": "gridlayout",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.socket",
+          "module": "socket.io-client",
+          "version": {
+            "requires": "2.0.0"
+          },
+          "excludes": [
+            {
+              "group": "org.json",
+              "module": "json"
+            }
+          ]
+        },
+        {
+          "group": "me.xdrop",
+          "module": "fuzzywuzzy",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "org.greenrobot",
+          "module": "eventbus",
+          "version": {
+            "requires": "3.3.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "autoussd-sdk-2.0.1.aar",
+          "url": "autoussd-sdk-2.0.1.aar",
+          "size": 225726,
+          "sha512": "dd15f1ab6e602c21a5de98d07bb176ecbc189534b0bef1b576f9faae2ec8071d6259148962e772f04a2d650fbba11e6717bec9e787adc61cb9493eaa28f9ed36",
+          "sha256": "37c5d70d707d21d4a163becc9a7947ba8c88c3631578e4a88dcefb2771dc5092",
+          "sha1": "0939763a37bf30ad60a901ea709c514fd8adb0ca",
+          "md5": "93f303b9aaba6e75b991899cb6853ba5"
+        }
+      ]
+    }
+  ]
+}
