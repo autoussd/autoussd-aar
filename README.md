@@ -1,12 +1,13 @@
 # AutoUssd
 
-![](https://img.shields.io/badge/version-2.0.0-blue) ![](https://img.shields.io/badge/platform-android-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange)
+![](https://img.shields.io/badge/version-2.0.0-blue) ![](https://img.shields.io/badge/platform-android-brightgreen) ![](https://img.shields.io/badge/min%20sdk%20version-API%2023-orange) ![](https://img.shields.io/badge/compile%20sdk%20version-API%2031-orange)
 
-[AutoUssd](https://autoussd.com) is a powerful USSD automation SDK for Android which allows you to build Android applications on top of USSD services. Find out more on our [website](https://autoussd.com).
+[AutoUssd](https://autoussd.com) is a powerful automation SDK for Android which allows you to build Android applications on top of **[USSD](https://www.techtarget.com/searchnetworking/definition/USSD)** services. Find out more on our [website](https://autoussd.com).
 
 ## Requirements
 
 - Your app must must target a `minSdkVersion` of **23** or higher
+- Your app must have a `compileSdkVersion` of **31**
 
 ## Installation
 
@@ -26,7 +27,7 @@ allProjects {
 ```groovy
 dependencies {
   ...
-  implementation 'com.autoussd:autoussd-sdk:1.2.1';
+  implementation 'com.autoussd:autoussd-sdk:2.0.2';
 }
 ```
 
