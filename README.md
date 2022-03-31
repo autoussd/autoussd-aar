@@ -1,6 +1,6 @@
 # AutoUssd
 
-![](https://img.shields.io/badge/version-2.1.0-blue) ![](https://img.shields.io/badge/platform-android-brightgreen)
+![](https://img.shields.io/badge/version-3.0.2-blue) ![](https://img.shields.io/badge/platform-android-brightgreen)
 
 [AutoUssd](https://autoussd.com) is a powerful automation SDK for Android which allows you to build Android applications on top of **[USSD](https://www.techtarget.com/searchnetworking/definition/USSD)** services. Find out more on our [website](https://autoussd.com).
 
