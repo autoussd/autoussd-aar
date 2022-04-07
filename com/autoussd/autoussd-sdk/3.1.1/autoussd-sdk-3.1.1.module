@@ -35,11 +35,11 @@
         {
           "name": "autoussd-sdk-3.1.1.aar",
           "url": "autoussd-sdk-3.1.1.aar",
-          "size": 229585,
-          "sha512": "7574a2e0a176b6aaf546c9313aa4399d750162d33298c897487b84c9cbda48f3f3874cdbf8eaffa577f76867d8aed439bc337cb1e9a71b04b962cea4fb862e47",
-          "sha256": "d749fa1df2603c7db4dc1e9ca4f24c7ae138984b04c46b75a941b84c0821e121",
-          "sha1": "fde7b1f731b8c3525a7d28cd26fb9996bf7ca0f4",
-          "md5": "9c0f5538935a3007986c65c5c97bdacf"
+          "size": 229630,
+          "sha512": "656586a3df008747b003f4d241158c41d78c79934603a2f2065e1c567bd5a0fc2abd3f797161162edb506028a56c039e74afeb83564e5d426f4ca4e60a885ae3",
+          "sha256": "563067ffc79cba85ab976b6827f8ae7d79c5f93d45f21dea202b646e9ac3da50",
+          "sha1": "32ae565897fabe40d66c5dd8bb3be03c0daf2e88",
+          "md5": "626b2e606a8e7085aa7924690e16eb89"
         }
       ]
     },
@@ -147,11 +147,11 @@
         {
           "name": "autoussd-sdk-3.1.1.aar",
           "url": "autoussd-sdk-3.1.1.aar",
-          "size": 229585,
-          "sha512": "7574a2e0a176b6aaf546c9313aa4399d750162d33298c897487b84c9cbda48f3f3874cdbf8eaffa577f76867d8aed439bc337cb1e9a71b04b962cea4fb862e47",
-          "sha256": "d749fa1df2603c7db4dc1e9ca4f24c7ae138984b04c46b75a941b84c0821e121",
-          "sha1": "fde7b1f731b8c3525a7d28cd26fb9996bf7ca0f4",
-          "md5": "9c0f5538935a3007986c65c5c97bdacf"
+          "size": 229630,
+          "sha512": "656586a3df008747b003f4d241158c41d78c79934603a2f2065e1c567bd5a0fc2abd3f797161162edb506028a56c039e74afeb83564e5d426f4ca4e60a885ae3",
+          "sha256": "563067ffc79cba85ab976b6827f8ae7d79c5f93d45f21dea202b646e9ac3da50",
+          "sha1": "32ae565897fabe40d66c5dd8bb3be03c0daf2e88",
+          "md5": "626b2e606a8e7085aa7924690e16eb89"
         }
       ]
     }
