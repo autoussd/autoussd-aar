@@ -1,6 +1,6 @@
 # AutoUssd
 
-![](https://img.shields.io/badge/version-4.0.0--alpha--07-blue) ![](https://img.shields.io/badge/platform-android-brightgreen) ![](https://img.shields.io/badge/min--sdk--version-26%20%28Android%208%29-brightgreen) ![](https://img.shields.io/badge/gradle-7.1.3-brightgreen) ![](https://img.shields.io/badge/kotlin--gradle--plugin-1.6.21-brightgreen)
+![](https://img.shields.io/badge/version-4.0.0--alpha--08-blue) ![](https://img.shields.io/badge/platform-android-brightgreen) ![](https://img.shields.io/badge/min--sdk--version-26%20%28Android%208%29-brightgreen) ![](https://img.shields.io/badge/gradle-7.1.3-brightgreen) ![](https://img.shields.io/badge/kotlin--gradle--plugin-1.6.21-brightgreen)
 
 ![](./assets/logo-seo.png)
 

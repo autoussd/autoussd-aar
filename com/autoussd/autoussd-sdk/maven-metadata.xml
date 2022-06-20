@@ -3,8 +3,8 @@
   <groupId>com.autoussd</groupId>
   <artifactId>autoussd-sdk</artifactId>
   <versioning>
-    <latest>4.0.0-alpha-07</latest>
-    <release>4.0.0-alpha-07</release>
+    <latest>4.0.0-alpha-08</latest>
+    <release>4.0.0-alpha-08</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.0-alpha</version>
@@ -45,7 +45,8 @@
       <version>4.0.0-alpha-05</version>
       <version>4.0.0-alpha-06</version>
       <version>4.0.0-alpha-07</version>
+      <version>4.0.0-alpha-08</version>
     </versions>
-    <lastUpdated>20220620133913</lastUpdated>
+    <lastUpdated>20220620153500</lastUpdated>
   </versioning>
 </metadata>
